@@ -1,7 +1,7 @@
 print("Hello World")
 
-if true :
+if True :
     print("benul")
     print("Betul")
 else :
-    print("salah")
+    print("salad")
