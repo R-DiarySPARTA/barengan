@@ -4,4 +4,4 @@ if True :
     print("benul")
     print("Betul")
 else :
-    print("salad")
+    print("Salah")
