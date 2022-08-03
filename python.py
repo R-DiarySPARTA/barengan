@@ -1,6 +1,6 @@
 print("Hello World")
 
 if true :
-    print("betul")
+    print("benul")
 else :
     print("salah")
